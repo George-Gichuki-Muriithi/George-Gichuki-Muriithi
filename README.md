@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Technology Projects
-- 📫 How to reach me, my email is adepttechnoco@gmail.com
+- 📫 How to reach me, my email is muriithigeorgegichuki@gmail.com
 
 <!---
 George-Gichuki-Muriithi/George-Gichuki-Muriithi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
